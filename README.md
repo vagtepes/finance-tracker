@@ -13,7 +13,7 @@ Things you may want to cover:
 * The configuration is listed below
 
     1. Authentication system where users can sign-up, edit their profile, login/logout
-    2. Users can track upto 10 stocks and the profile displays the current stock prices
+    2. Users can track upto 20 stocks and the profile displays the current stock prices
     3. Users can search stock symbols
     4. Users can choose to add a stock to their portfolio from the search results
     5. Users can search and befriend for other users by name
